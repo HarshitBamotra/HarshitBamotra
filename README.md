@@ -8,7 +8,7 @@
 📖 Data Structures • Backend Development
 🎮 Music • Games • Anime • Code
 🐾 Max & Benji 🐕🐶
-<div align="center">
+<div>
 🤓 MY PROJECTS 🤓
 <a href="https://roleplay-chat-bot-frontend.onrender.com/">Roleplay Chatbot</a>
 <a href="https://discord-clone-ndyn.onrender.com">Discord Clone</a>
